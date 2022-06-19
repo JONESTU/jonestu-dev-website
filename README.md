@@ -1,3 +1,3 @@
 # jonestu.dev
 
-My website.
+My website, written in HTML.
